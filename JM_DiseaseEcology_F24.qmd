@@ -1,0 +1,30 @@
+---
+title: "JM_DiseaseEcology_F24"
+author: "Jacob Melton"
+format: html
+editor: visual
+---
+
+**08/26/2024**
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+
+```
+
+![](images/clipboard-2779519854.png)
+
+The image above is described as an Epidemiological Triad. It depicts the relationship between the environment, host, and pathogen. This triage represents the various factors necessary for disease to occur.
