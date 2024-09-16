@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## [9/16/2023 - Disease Ecology - Worksheet 2 & 3]{.underline}
+## [9/16/2024 - Disease Ecology - Worksheet 2 & 3]{.underline}
 
 **1) Find the sample size necessary to detect a disease at or above 5% prevalence in a\
 herd of 5000 deer. The desired level of confidence is 95%.**
