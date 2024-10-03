@@ -1,0 +1,66 @@
+---
+title: "Melton_Worksheet4"
+format: html
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+# [**MEMO**]{.underline}
+
+**To:** Dr. Aniruddha Belsare
+
+**From:** Jacob Melton
+
+**Date:** 10/3/2024
+
+**RE:** Model-Informed Wildlife Disease Management
+
+------------------------------------------------------------------------
+
+In a society where wildlife managers are tasked with making decisions that are
+subject to public scrutiny or impacting overall public health. Effective managers must be able to make sound decisions to protect the given resource to the best of their ability. These decisions must be made in logical and defensible ways. This begs the question, “How?” Often,
+managers must balance a variety of factors into their decision-making process such
+as public opinion, availability of resources, and current knowledge. Modeling is
+a useful tool in a manager’s toolbox that can help direct their management objectives
+and aid in more effective decision making and management. Modeling can be a
+cost-effective alternative to extensive, costly data collection methods such as
+aerial surveys. Using models in such setting can help managers re-evaluate past
+data collection techniques and aid in determining which factors serve as the best
+indicator of change within the given population. A standard model to be used is
+a deterministic model which is usually employed because it is simple to interpret,
+but it does not account for unexpected events or uncertainty. To overcome this
+uncertainty, managers can employ a stochastic model. A stochastic model, while
+more complex, must be built if there are variable answers to management
+questions. These variations could be uncertainty in weather, fire behavior,
+prevalence of disease, or survival/reproduction. These types of models can
+produce a variety of different outputs which can be effective for forcing
+managers to focus on what exactly they are wanting to know and how to best represent
+the probability of possible outcomes. The clearer thinking and deeper
+understanding that can come from creating models gives managers a defensible
+and satisfactory decision. Modeling can improve disease surveillance and data
+collection efforts among wildlife organizations. Modeling helps organizations
+refine their data collection techniques. It allows managers to determine which
+forms of data collection are more effective than others. Data collection
+methods can be improved and analyzed more effectively using a model. Models help
+guide decisions regarding how and when to collect data. Data collection efforts
+often require a great deal of money and effort. Modelling can serve as a precursor
+for determining whether the data collection effort will be worth the investment
+of valuable resources. As management objectives become more complex, such as ecosystem management – it becomes increasingly relevant to make use of simple models. Ecosystems are
+undoubtedly complex, but it should not be assumed that modeling for ecosystems
+should be. The guiding principle in this instance is to simplify the problem
+substantially to work alongside the objectives of the model. An example of
+simplifying the problem is list disease prevalence as low, medium, or high. Rather than
+listing the prevalence in the exact units of measurement. A simple model does not
+imply simple results. Simple models can provide all the necessary framework to
+describe the advantages or disadvantages of certain management strategies. Models
+can have their limitations – they can mislead and lie. Therefore, it is critical
+that wildlife professionals have awareness on what a good model looks like in
+comparison to a bad model. They need to be aware on why and how a model should
+be used in variable situations. Ultimately, models should be a vital tool in
+the toolbox of wildlife managers. Models, like long-term datasets, contribute
+to the “in-house knowledge” and can be revised and changed as more information
+is acquired. Through these developing practices, wildlife management decisions
+can be more well-informed, effective, and practical.
+
+------------------------------------------------------------------------
