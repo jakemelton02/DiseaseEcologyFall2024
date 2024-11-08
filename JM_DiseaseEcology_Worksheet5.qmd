@@ -1,0 +1,23 @@
+---
+title: "JM_Worksheet5_DiseaseEcology"
+format: html
+editor: visual
+---
+
+## [Worksheet 5 - 11/3/2024 - Marburg Virus Outbreak]{.underline}
+
+**The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of today, 65 cases of Marburg virus infection have been documented, and most of the people infected are health care workers, mainly those who work in intensive care units. ​**
+
+------------------------------------------------------------------------
+
+**​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.**
+
+Using Fenton and Pederson's community epidemiology framework, the Marburg virus outbreak would be classified as a [spillover event.]{.underline} This classification was determined because the initial case was contracted from visiting a cave with Egyptian rousette bats known to be a reservoir of the Marburg virus. This would suggest a direct zoonotic transmission where the virus transmits from wildlife to humans. Another justification for this classification is the majority of the infected individuals are healthcare professionals that work in intensive care units. This virus has spread through a very specific population of individuals. This highlights the significance of the initial animal-human infection event leading to further human-human transmission in the healthcare environment. Lastly, the outbreak has produced a considerable number of cases. However, the outbreak is influenced by the initial spillover from the bat-human interaction rather than a sustained, established cycle of human-human transmission that would be observed during a emerging infectious disease event.
+
+------------------------------------------------------------------------
+
+**2. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?**
+
+In a community setting, risk of transmission could be reduced by educating the public of the potential risk of visiting areas with infected bats and inform them of caves that are known for having large populations of infected bats. Surveillance could be implemented to closely monitor cases and promote reporting system for potential developing symptoms. Managing or restricting public access to known caves could reduce the risk of human-bat transmission. Safe post-mortem handling and burial practices should be encouraged to reduce further transmission.
+
+In a healthcare setting, risk of transmission could be reduced by providing individuals with the necessary PPE to work in close proximity with the virus. Further risk reduction efforts can be provided by educating healthcare staff on protocol for isolation and treatment measures necessary if they become infected. Giving healthcare professionals access to rapid testing to promote early detection can contribute to reduced transmission and a more rapid, effective response. Researching, developing, and implementing effective vaccines can greatly contribute to reduced transmission.
