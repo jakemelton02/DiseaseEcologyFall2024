@@ -1,0 +1,150 @@
+---
+title: "Worksheet6-8"
+author: "Jacob Melton"
+format: html
+editor: visual
+---
+
+## Worksheet 6, 7, 8 - Raccoon Roundworm
+
+------------------------------------------------------------------------
+
+[**COMPARING PREVALENCE BETWEEN REGIONS**]{.underline}
+
+| REGION | Total Host: 106 | Infected Host (Num_BPro \> 0) | Prevalence (INF/TOTAL) | CI 95% (Sterne's) |
+|----|----|----|----|----|
+| North | 49 | 14 | .29 | .170-.428 |
+| Central | 14 | 9 | .64 | .371-.847 |
+| South | 43 | 27 | .63 | .477 - .759 |
+
+**Prevalence Calculations:**
+
+North Prevalence = 14/49=.285 +
+
+.285 x 100=29%
+
+Central Prevalence=9/14=.642
+
+.642 x 100= 64%
+
+South Prevalence=27/43=.627
+
+.627 x 100 = 63%
+
+**Observations:**
+
+From the data above, the central region has the highest prevalence (64%). However, it has the smallest number of host among the regions. The second highest prevalence region is south region with a prevalence of 63%. Lastly, the north region has 29% prevalence for roundworm infection.
+
+**Interpretation of Results:**
+
+The Central and Southern regions have the highest prevalence fo roundworm infection. Therefore, it would seem that there is a stronger ecological presence of roundworm in these areas in comparison to the north region.
+
+------------------------------------------------------------------------
+
+[**COMPARING PREVALENCE BETWEEN MALES AND FEMALES:**]{.underline}
+
+| Region  | Gender | Total Host  | Total Infected | Prevalence  | CL 95% (Sterne's) |
+|------------|------------|------------|------------|--------------|------------|
+| North   | M      | 21          | 8              | .38         | .07-.35           |
+| North   | F      | 28          | 6              | .21         | .19-.57           |
+| Central | M      | 9           | 4              | .44         | .11-.77           |
+| Central | F      | 5           | 5              | 1           | 0.0-1             |
+| South   | M      | 32          | 16             | 0.5         | .31-.68           |
+| South   | F      | 11          | 11             | 1           | 0.0-1             |
+
+**Prevalence Calculations:**
+
+North (M)= 8/21=.380
+
+.380 X 100=38%
+
+North (F)=6/28=.214
+
+.214 X 100= 21%
+
+Central (M) 4/9=.444
+
+.444 X 100= 44%
+
+Central (F)=5/5=1
+
+1 X 100= 100%
+
+South (M)=16/32=.50
+
+1 X .50=50%
+
+South (F)=11/11=1
+
+1X100=100%
+
+**Observations:**
+
+In the north region, male raccoon's had a higher prevalence for being infected by roundworm than females. Males had a 38% prevalence while females had 21% prevalence.
+
+In the central region, female raccoon's had a higher prevalence for being infected by roundworm than males. Females had 100% prevalence while males only had 44%.
+
+In the south region, female raccoon's had a higher prevalence for being infected by roundworm than males. Females had 100% prevalence while males only had 50%.
+
+**Interpretation of Results:**
+
+In the north region, the higher prevalence of infection of males could be indicative of higher roaming rates and foraging.
+
+In the central and southern region, the higher prevalence of infection of females could be related to maternal behaviors which increases risk of exposure.
+
+------------------------------------------------------------------------
+
+[**COMPARING PREVALENCE BETWEEN AGE CLASSES**]{.underline}
+
+| Region   | Age Class | Total Host  | Total Infected | Prevalence | CI 95% (Sterne's) |
+|------------|------------|------------|------------|--------------|------------|
+| North    | A         | 25          | 7              | .28        | .12-.48           |
+| North    | YA        | 24          | 7              | .292       | .125-.50          |
+| Central  | A         | 13          | 8              | .615       | .384-.846         |
+| Central  | YA        | 1           | 1              | 1          | 0-1               |
+| South    | A         | 31          | 21             | .677       | .516-.838         |
+| South    | YA        | 12          | 6              | 0.5        | .25-.75           |
+
+**Prevalence Calculations:**
+
+North (A)=7/25=.28
+
+.28 X 100= 28%
+
+North (YA)=7/24=.292
+
+.292 X 100=29%
+
+Central (A)=8/13=.615
+
+.615 X 100 = 62%
+
+Central (YA)=1/1=1
+
+1 X 100= 100%
+
+South (A)=21/31=.677
+
+.677 X 100 = 67%
+
+South (YA)= 6/12=0.50
+
+.50 X 100=50%
+
+**Observations:**
+
+In the north region, prevalence was highest among young adult raccoon's. However, there was very small variation in prevalence. Adults had 28% while young adults had 29%
+
+In the central region, prevalence was highest young adult raccoon's. 100% of young adult raccoon were infected by roundworm while 61% of adults were infected.
+
+In the south region, prevalence was highest among adult raccoon's. Adult specimens had 68% prevalence while young adults had 50%.
+
+**Interpretation of Results:**
+
+In the north region and central, the prevalence was highest among young adult raccoon's. This could be correlated to the exploratory behavior often seen in young individuals that could increase risk of infection. Adult individuals may have had enough time to build up immunity which reduces exposure.
+
+------------------------------------------------------------------------
+
+**Discussion:**
+
+Overall, regions with high prevalence such as the south and central region must be prioritized for ecological intervention. Potential strategies could include reducing roundworm egg hotspots, reducing contact risk, and informing the public. It is important to consider the behavioral differences between males and female raccoon. The behavioral differences can guide and promote more effective disease management strategies. In males, it may be important to focus disease management efforts on areas of high activity. For females, it may be vital to focus on specific vulnerabilities regarding their maternal behaviors. In regards to age structure, it is another important component to consider in managing this disease because it can refine prevention efforts from having knowledge of which age class has increased vulnerability. Prevention efforts can carried out through vaccination programs and/or habitat modifications.
