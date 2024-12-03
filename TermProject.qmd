@@ -1,0 +1,150 @@
+---
+title: "Untitled"
+format: docx
+editor: visual
+---
+
+[**MEMO**]{.underline}
+
+**To:** Iowa Department of Public Health
+
+**From:** Jacob Melton, Auburn University
+
+**Date:** November 30, 2024
+
+**RE:** Public Health Response to Lassa Fever Case in Iowa
+
+------------------------------------------------------------------------
+
+[**Key Information on Lassa Fever:**]{.underline}
+
+-   ·**Causative Agent:**
+
+    -   Lassa fever was first described in the 1950s. The virus causing Lassa disease was identified in 1969. The virus is a single-strand RNA virus that belongs to the *Arenaviridae* family (World Health Organization \[WHO\], 2017)
+
+        ------------------------------------------------------------------------
+
+-   **Natural Reservoir:**
+
+    -   Lassa fever is a zoonotic disease
+
+    -   The animal reservoir is a rodent belonging to the genus Mastomys (WHO, 2017).
+
+    -   These species are commonly known as the “multimammate rat.”
+
+    -   Endemic rodent to West Africa
+
+    -   Mastomys rodents carry and excrete the virus without showing symptoms (WHO, 2017).
+
+        ------------------------------------------------------------------------
+
+-   **Transmission Pathways:**
+
+    -   Animal-Human Transmission:
+
+        -   Direct contact with urine, feces, or other excrement from infected Mastomys rodents (WHO, 2017).
+
+        -   Consumption of food or water contaminated with Mastomys rodent’s excrement (WHO, 2017).
+
+    -   Human-Human Transmission:
+
+        -   Direct contact with bodily fluids (blood, urine, saliva) of an infected person (WHO, 2017).
+
+        -   Lassa fever is not spread through casual human contact such as hugging, shaking hands, or sitting close to an infected individual (Iowa Health and Human Services, 2024).
+
+        -   Exposure to contaminated medical instruments (i.e. re-used needles) in healthcare settings (WHO, 2017).
+
+    -   Host-Pathogen Interactions relevant to Iowa:
+
+        -   In non-endemic regions such as Iowa, the natural reservoir species does not exist.
+
+            -   Therefore, human transmission would be the primary mode of virus spread in Iowa.
+
+        -   Iowa lacks the ecological conditions necessary for human-rodent spillover.
+
+------------------------------------------------------------------------
+
+**Geographic Distribution:**
+
+-   Lassa fever is endemic to West African countries such as: Nigeria, Sierra Leone, Liberia, and Guinea (WHO, 2017).
+
+-   Occasional cases occur in neighboring West African Regions (WHO, 2017).
+
+-   Imported cases outside Africa remain rare but are often associated with recent travel to endemic areas (WHO, 2017).
+
+------------------------------------------------------------------------
+
+**Clinical Presentation:**
+
+-   Incubation period: 6-21 days (WHO, 2017).
+
+-   The onset of the disease once symptomatic starts with fever, fatigue, and malaise.
+
+-   After a few days, symptoms include headache, sore throat, muscle pain, chest pain, nausea, vomiting, diarrhea, cough, and abdominal pain (WHO, 2017).
+
+-   In severe cases, symptoms include facial swelling, fluid build-up in lungs, low blood pressure, and bleeding from the mouth, nose, vagina, or gastrointestinal tract (WHO, 2017).
+
+    -   In late stages of severe cases, symptoms include shock, seizures, tremors, disorientation, and coma (CDC, 2024).
+
+        -   Deafness occurs in 25% of patients who survive the disease (WHO, 2017).
+
+        -   Death usually occurs within 14 days of onset with fatal cases (WHO, 2017).
+
+------------------------------------------------------------------------
+
+[**State of Iowa - Actionable Recommendations for Public Health Response and Prevention:**]{.underline}
+
+**Improving Disease Surveillance:**
+
+-   Enhanced Reporting Systems:
+    -   Statewide tracking and monitoring of suspected cases
+
+<!-- -->
+
+-   Inform healthcare providers with necessary case definitions to promote prompt identification of Lassa fever (Center for Disease Control and Prevention \[CDC\], 2024).
+
+-   Provide healthcare providers with the necessary diagnostic tools to ensure timely testing (CDC, 2024).
+
+------------------------------------------------------------------------
+
+·**Educate Healthcare Providers:**
+
+-   Provide mandatory training opportunities for healthcare professionals on recognizing symptoms, safe specimen handling, and necessary treatment protocols (CDC, 2024).
+
+    -   Coordinate with county health departments and local clinics, considering the predominant rural demographics.
+
+-   Reinforce proper PPE protocols and patient isolation procedures.
+
+-   Encourage healthcare professionals to review the patient's travel history (CDC, 2024).
+
+------------------------------------------------------------------------
+
+**Managing Suspected Cases & Infection Control in Healthcare Settings:**
+
+-   Patient Placement:
+
+    -   Patients should be placed in a single-patient room with private bathroom and the door should be closed (CDC, 2024).
+
+    -   Facilities should keep a log of all people entering/exiting the room (CDC, 2024).
+
+-   Patient Care Equipment:
+
+    -   Dedicated medical equipment (preferably disposable) should be used when providing patient care (CDC, 2024).
+
+    -   All non-dedicated, non-disposable medical equipment should be cleaned and disinfected according to the manufacturer’s recommendations (CDC, 2024).
+
+-   Provide healthcare providers with anti-viral treatments and monitor compliance with infection prevention standards (CDC,2024).
+
+    ------------------------------------------------------------------------
+
+    **Analysis:**
+
+-   Lassa virus is likely to emerge in Iowa from a traveler that was exposed to an infected Mastomys rat in Western Africa. In Iowa, the traveler could transmit the virus to other via close contact with bodily fluids. This virus has the potential to persist in non-endemic areas such as Iowa if precautionary measures aren't employed such as screening returning travelers from endemic areas, proper patient care, proper medical PPE for healthcare professionals, and proper burial methods (CDC, 2024). Proactive implementation of these measures is essential. These proactive measures will prevent and contain potential outbreak of Lassa fever in Iowa.
+
+References: (APA7)
+
+Center for Disease Control and Prevention. (2024). *About Lassa Fever*. https://www.cdc.gov/lassa-fever/about/index.html
+
+Iowa Health and Human Services. (2024) *State and Hospital Officials Follow Federal Guidance After Lassa Fever Death*. https://hhs.iowa.gov/news-release/2024-10-28/state-and-hospital-officials-follow-federal-guidance-after-lassa-fever-death
+
+World Health Organization. (2017). *Lassa fever*. https://www.who.int/news-room/fact-sheets/detail/lassa-fever
