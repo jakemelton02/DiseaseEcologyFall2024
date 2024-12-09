@@ -1,0 +1,169 @@
+---
+title: "DiseaseEcology_FinalExam"
+author: "Jacob Melton"
+format: html
+editor: visual
+---
+
+## **Disease Ecology FOWS 7200 -** Exam 2 -12/10/2024
+
+**1. True or False. If false, explain why the statement is incorrect (15 points)**
+
+-   **Using the community-epidemiology continuum proposed by Fenton and Pedersen\
+    (2005), a disease caused by a multihost pathogen with high between-species\
+    transmission and high within-target species transmission will be termed as a potential\
+    emerging infectious disease.**
+    -   True.
+-   **Hantavirus Pulmonary Syndrome is a bacterial disease that is transmitted by Ixodes\
+    scapularis.**
+    -   False. Hantavirus Pulmonary Syndrome is a viral disease that spreads through infected mice and rats.
+-   **The eggs of Baylisascaris procyonis can be transmitted to humans by direct contact\
+    immediately after excretion by an infected raccoon.**
+    -   False. Raccoon roundworm are not infectious immediately after excretion by an infected raccoon. The eggs require a period of development in the environment before they become infectious.
+-   **Questing larvae of Ixodes scapularis can potentially transmit Borrelia burgdorferi to\
+    humans.** - False. Larvae of lxodes scapularis cannot transmit Borrelia burgdorferi because they hatch uninfected. They do not become infected until they feed on an infected host. Larvae molt into nymphs after their first blood meal. Therefore, adults and nymphs can potentially transmit Borrelia burgdorferi to humans.
+-   **American robins are considered superspreaders species for West Nile virus.**
+    -   True.
+
+------------------------------------------------------------------------
+
+**2. List the community-based interventions used for preventing dracunculiasis\
+transmission in regions where it is endemic. Explain these interventions in the context of\
+the Guinea worm life cycle and transmission.** -
+
+-   Provide safe drinking water
+
+-   Dracunculiasis transmission occurs when individuals consume water contaminated with copepods infected with the larvae of the Guinea worm. Access to clean, protected or treated water sources prevents consumption of infected copepods - Encourage the use of water filters
+
+-   Water filters or filter cloths can be used to prevent ingestion of copepods when drinking water from unprotected sources - Health education
+
+-   Inform individuals to avoid behaviors that contribute to infection such as:
+
+    -   Avoid using stagnant water sources for drinking or bathing
+    -   Inform public to report cases of emerging worms
+        -   Containment
+
+-   Prevent individuals with emerging guinea worms from entering water sources.
+
+    -   Provide clean bandages and assist infected individuals in caring for their wounds to prevent contact with water.
+        -   Implementing vector control by using larvicide temephos
+
+-   Kills copepods in stagnant water sources - breaks transmission cycles
+
+------------------------------------------------------------------------
+
+**3. Match the Following:**\
+a. Mosquito-borne arbovirus - [West Nile Virus]{.underline}\
+b. Dracunculus medinensis definitive host - [Humans]{.underline}\
+c. Anthrax - [Bacterial Disease]{.underline}\
+d. Tick-transmitted viral disease - [Powassan encephalitis]{.underline}\
+e. Disease caused by fungus - [American Chestnut Blight]{.underline}\
+f. Bell’s palsy, bull’s eye rash - [Lyme Disease]{.underline}
+
+------------------------------------------------------------------------
+
+**4. Refer to the life cycle of blacklegged tick to answer 4a – 4d**
+
+\
+**a) The two stages of blacklegged tick that can potentially transmit Lyme Disease to humans are:**
+
+-   The nymph stage and the adult stage
+
+**b) Preferred host of the larval stage of *lxodes scapularis is:*** [small mammals (ex. white-footed mice)]{.underline}; **Preferred host of adult stage of *lxodes scapularis is:*** large mammals (ex. Whitetail deer)
+
+**c) Lyme disease risk posed by host-seeking nymphs of I. scapularis is greatest during\
+**[Spring to Early Summer (May-July)]{.underline} **(season/months) while Lyme disease risk posed by host-seeking adults is\
+greatest during** [Fall to Early Winter (October-December)]{.underline}.**(season/months).**
+
+\
+**d) The natural reservoir and competent hosts of Borrelia burgdorferi in North America:\
+**[White-footed mice]{.underline}**. The reproductive hosts for adult black-legged ticks\
+are** [Whitetail deer.]{.underline}
+
+------------------------------------------------------------------------
+
+**5.What are some of the main challenges associated with Chronic Wasting Disease Management?**
+
+Some of the main challenges associated with Chronic Wasting Diseases Management include:
+
+-   No vaccines or treatment
+
+-   Tools for effectively managing/controlling the spread of the disease remain limited.
+
+-   Infected individuals are difficult to detect
+
+-   Imperfect detectability in early phase on CWD outbreak
+
+-   Asymptomatic transmission: direct as well as environmental
+
+-   By the time CWD is detected in a population, it is already established and difficult to eliminate
+
+-   CWD management is limited by logistical, financial, and sociopolitical considerations.
+
+------------------------------------------------------------------------
+
+**6. Short Answer:**
+
+1.  **All Infected host are diseased. Comment using appropriate examples.**
+    -   Not all infected host are diseased. An infected host refers to an organism that harbors the pathogen. However, thAe infected host is not diseased until it exhibits clinical signs or symptoms caused by a particular pathogen. For example, a person can be infected with COVID-19 yet still remain asymptomatic. If a person is infected with COVID-19 and they are showing clinical signs, they are considered diseased.
+2.  **Klepac et al. estimated an R0 of 2.5 for the 2002 Phocine Distemper virus epidemic in\
+    Dutch harbor seals. Assuming that an effective PDV vaccine is available, what\
+    proportion of the seal population should be vaccinated to prevent a future outbreak of\
+    PDV?** - To calculate the proportion of the seal population that should be vaccinated the herd immunity threshold formula should be used. The formula is 1-1/R0 - R0=2.5 - 1-1/2.5=.60 = 60% - Therefore, 60% of the seal population should be vaccinated to prevent future outbreaks of PDV
+
+------------------------------------------------------------------------
+
+**7.** **Armadillos: Known population=100; January (3 new infections), February (4 new infections), March (7 new infections), April (0 new infections), May (4 new infections)**
+
+-   **Find the Incidence:**
+    -   Incidence (Number of new cases/Population at risk)
+        -   January 2023: 3/100=0.03 cases per armadillo-month
+        -   March 2023: 7/93= 0.08 cases per armadillo-month
+        -   May 2023: 4/86= 0.05 cases per armadillo-month
+-   **What is the prevalence of leprosy in the study population in the month of April 2023?**
+    -   Prevalence: (#infected/#population)
+        -   April 2023: 14 infected/100 population= .14 or 14% prevalence
+
+------------------------------------------------------------------------
+
+**8.** **Georgia has a white-tailed deer population of \~ 1 million. A total of 1351 samples from hunter-harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above 0.2% prevalence in Georgia’s white-tailed deer population. You are asked to comment on Georgia DNR’s CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance.**
+
+-   There are important downsides that must be considered in using hypergeometirc distribution for wildlife disease surveillance. First, hypergeometric distribution assumes perfect sensitivity of the test. This means if an infected sample is tested, it will always give a positive result. However, this is unrealistic because diagnostic test can give false readings for a variety of reasons such as: quality of samples, stage of infection, or human error. Second, 1,351 hunter-harvested samples are not representative of the population due to heterogeneity in disease distribution and biased sampling. CWD can often be concentrated in a specific area or region. If sampling efforts aren't stratified, it can lead to missing the detection entirely. These specific hunter-harvested sampling efforts are not representative of the population and could potentially lead to false inferences about disease prevalence and distribution.
+
+------------------------------------------------------------------------
+
+**9. Label the following circles, each of which represents a scenario**
+
+-   A pathogen for which cross-species transmission is very rare, but when it occurs has very large impacts for H2: lower left quadrant
+
+-   A persistent multi-host pathogen: upper right quadrant
+
+-   Spillover event: lower left quadrant
+
+-   Emerging infectious disease: upper left quadrant
+
+-   SARS-CoV-2: upper right quadrant
+
+    [DiseaseEcologyFall2024/Figure.jpeg at main · jakemelton02/DiseaseEcologyFall2024](https://github.com/jakemelton02/DiseaseEcologyFall2024/blob/main/Figure.jpeg)
+
+    **10. Anisakiasis is the disease caused by infection with the stomach worm *Anisakis simplex.* It reaches sexual maturity and reproduces in marine mammals. In the following figure, identify the definitive host, a dead-end host, a paratenic host, and an intermediate host.**
+
+<!-- -->
+
+-   Definitive Host: marine mammals
+
+-   Dead-end Host: humans
+
+-   Paratenic Host: fish and cephalopods
+
+-   Intermediate Host: crustacean
+
+------------------------------------------------------------------------
+
+**11. Brucellosis, caused by the true multihost pathogen Brucella abortus, is currently maintained independently by bison and elk in the Greater Yellowstone Ecosystem (GYE). Chronic wasting disease (CWD), a prion disease, has recently been detected in the same region. Discuss the potential ecological, epidemiological, and management consequences of the interaction between brucellosis and CWD in the GYE. How might the presence of both diseases affect wildlife populations,disease dynamics, and control efforts?**
+
+Potential ecological consequences of the interacts between brucellosis and CWD in the GYE could lead to an increase in mortality of elk, deer, and bison. This could potentially trigger a cascade of ecological impacts on predator species such as wolves and bears. Reduced population of herbivores could lead to increases in vegetation which would alter the native structure and composition of the ecosystem.
+
+Potential epidemiological consequences of the interactions between brucellosis and CWD in GYE could lead to increases in disease prevalence that could potentially make the disease spread over large geographic areas. Another consequence of these interactions is the potential for a spillover event.
+
+Potential management implications for the interactions of the two diseases could lead to an increased difficulty to controlling the spread of the disease. Control efforts for each disease could possibly conflict and the strain managing two diseases simultaneously could lead to increased strain on funding and budgets of disease control agencies. Ultimately, this could over-extend managers to the point they are not able to effectively manage the diseases.
