@@ -1,0 +1,422 @@
+---
+title: "Worksheet9/10"
+author: "Jacob Melton"
+format: html
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+## [Worksheet 2 & 3]{.underline}
+
+**1) Find the sample size necessary to detect a disease at or above 5% prevalence in a\
+herd of 5000 deer. The desired level of confidence is 95%.**
+
+The necessary sample size is 59.
+
+<https://github.com/jakemelton02/DiseaseEcologyFall2024/blob/main/Table1.png>
+
+**2) Using the hypergeometric distribution, compare the sample size requirements for the\
+following scenarios:**
+
+**a) 95% confidence in detecting a disease at 1% prevalence in a large population**
+
+Sample size requirements: 299
+
+**b) 99% confidence in detecting a disease at 2% prevalence in a large population**
+
+Sample size requirements: 458
+
+**3) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the\
+300 have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you\
+are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\<\_\_\_ (\<, =,\>) \_\_1\_\_%.**
+
+Rule of 3: 3/N
+
+Sampled deer (N): 300
+
+3/300=0.01 or 1%
+
+**4) An outbreak of ‘Lame disease’ has been reported in wild turkey populations of\
+Alabama. Turkeys from three counties were sampled for lameness (Lee, Chambers and\
+Russell counties).**
+
+**a) Analyze the sample data to determine prevalence of lameness in each county. Provide confidence interval for prevalence using Sterne’s method.**
+
+| County   | Prevalence (Sterne's Method) | 95% Cl    |
+|----------|------------------------------|-----------|
+| Lee      | 20%                          | (14%-27%) |
+| Chambers | 27%                          | (13%-45%) |
+| Russell  | 3%                           | (1%-8.7%) |
+
+[\
+]{.underline}**b) Compare prevalences using Fisher’s exact test.**
+
+| County   | Prevalence (Fisher's Exact Test) |
+|----------|----------------------------------|
+| Chambers | 27%                              |
+| Lee      | 20%                              |
+
+-   p-value= .46
+
+    -   The p-value is greater than 0.05. Therefore, the difference is not statistically significant.
+
+| County   | Prevalence (Fisher's Exact Test) |
+|----------|----------------------------------|
+| Chambers | 27%                              |
+| Russell  | 3%                               |
+
+-   p-value: 0.0004
+
+the p-value is less than 0.05. Therefore, the difference is statistically significant.
+
+**5) Jane was studying the spread of Pink Spot Disease (PSD) in a pond that had 60 fish.\
+She introduced an infectious fish in the pond on day 0. Her observations are as follows:**
+
+**Day 1: 3 fish infected**
+
+**Day 2: 4 fish infected**
+
+**Day 3: 7 fish infected**
+
+**Day 4: 11 fish infected**
+
+**Day 5: 20 fish infected**
+
+**Note that there is no disease-related mortality. The observations denote all infected fish\
+in the pond (including previously infected fish).**
+
+| Day | Susceptible | Total Infected | New Infections | Incidence | Prevalence |
+|-----|-------------|----------------|----------------|-----------|------------|
+| 1   | 60          | 3              | 3              | 0.05      | 0.05       |
+| 2   | 57          | 4              | 1              | 0.02      | 0.07       |
+| 3   | 53          | 7              | 3              | 0.06      | 0.12       |
+| 4   | 46          | 11             | 4              | 0.09      | 0.18       |
+| 5   | 35          | 20             | 9              | 0.26      | 0.33       |
+
+**a) Find incidence on day 1, day 2 and day 5. Write the unit for incidence.**
+
+Day 1: 3/60= 0.05 cases per fish-day
+
+Day 2: 1/57= 0.02 cases per fish-day
+
+Day 3: 3/53= 0.06 cases per fish-day
+
+Day 4: 4/46= 0.09 cases per fish-day
+
+Day 5: 9/35= 0.26 cases per fish-day
+
+**b) What is the prevalence of PSD on day 3 and day 5?**
+
+(Prevalence= #infected/#population)
+
+Day 1: 3/60= 0.05
+
+Day 2: 4/60=0.07
+
+Day 3: 7/60= 0.12
+
+Day 4: 11/60=.18
+
+Day 5: 20/60= 0.33
+
+\
+**c) On which day is the prevalence same as the incidence (except the units)?**
+
+Day 1.
+
+------------------------------------------------------------------------
+
+## [Worksheet 4:]{.underline}
+
+# [**Memo**]{.underline}
+
+**To:** Dr. Aniruddha Belsare
+
+**From:** Jacob Melton
+
+**Date:** 10/3/2024
+
+**RE:** Model-Informed Wildlife Disease Management
+
+In a society where wildlife managers are tasked with making decisions that are subject to public scrutiny or impacting overall public health. Effective managers must be able to make sound decisions to protect the given resource to the best of their ability. These decisions must be made in logical and defensible ways. This begs the question, “How?” Often, managers must balance a variety of factors into their decision-making process such as public opinion, availability of resources, and current knowledge. Modeling is a useful tool in a manager’s toolbox that can help direct their management objectives and aid in more effective decision making and management. Modeling can be a cost-effective alternative to extensive, costly data collection methods such as aerial surveys. Using models in such setting can help managers re-evaluate past data collection techniques and aid in determining which factors serve as the best indicator of change within the given population. A standard model to be used is a deterministic model which is usually employed because it is simple to interpret, but it does not account for unexpected events or uncertainty. To overcome this uncertainty, managers can employ a stochastic model. A stochastic model, while more complex, must be built if there are variable answers to management questions. These variations could be uncertainty in weather, fire behavior, prevalence of disease, or survival/reproduction. These types of models can produce a variety of different outputs which can be effective for forcing managers to focus on what exactly they are wanting to know and how to best represent the probability of possible outcomes. The clearer thinking and deeper understanding that can come from creating models gives managers a defensible and satisfactory decision. Modeling can improve disease surveillance and data collection efforts among wildlife organizations. Modeling helps organizations refine their data collection techniques. It allows managers to determine which forms of data collection are more effective than others. Data collection methods can be improved and analyzed more effectively using a model. Models help guide decisions regarding how and when to collect data. Data collection efforts often require a great deal of money and effort. Modelling can serve as a precursor for determining whether the data collection effort will be worth the investment of valuable resources. As management objectives become more complex, such as ecosystem management – it becomes increasingly relevant to make use of simple models. Ecosystems are undoubtedly complex, but it should not be assumed that modeling for ecosystems should be. The guiding principle in this instance is to simplify the problem substantially to work alongside the objectives of the model. An example of simplifying the problem is list disease prevalence as low, medium, or high. Rather than listing the prevalence in the exact units of measurement. A simple model does not imply simple results. Simple models can provide all the necessary framework to describe the advantages or disadvantages of certain management strategies. Models can have their limitations – they can mislead and lie. Therefore, it is critical that wildlife professionals have awareness on what a good model looks like in comparison to a bad model. They need to be aware on why and how a model should be used in variable situations. Ultimately, models should be a vital tool in the toolbox of wildlife managers. Models, like long-term datasets, contribute to the “in-house knowledge” and can be revised and changed as more information is acquired. Through these developing practices, wildlife management decisions can be more well-informed, effective, and practical.
+
+------------------------------------------------------------------------
+
+## [Worksheet 5:]{.underline}
+
+**The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of today, 65 cases of Marburg virus infection have been documented, and most of the people infected are health care workers, mainly those who work in intensive care units. ​**
+
+**​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.**
+
+Using Fenton and Pederson's community epidemiology framework, the Marburg virus outbreak would be classified initially as a spillover event. This classification was determined because the initial case was contracted from visiting a cave with Egyptian rousette bats known to be a reservoir of the Marburg virus. This would suggest a direct zoonotic transmission where the virus transmits from wildlife to humans. However, the 65 cases of Marburg virus infection among healthcare workers would suggest infection among human individuals. Therefore, the Marburg Virus outbreak can now be described as an [**emerging infectious disease**]{.underline} because of the human-human transmission in a healthcare setting.
+
+**2. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?**
+
+In a community setting, risk of transmission could be reduced by educating the public of the potential risk of visiting areas with infected bats and inform them of caves that are known for having large populations of infected bats. Surveillance could be implemented to closely monitor cases and promote reporting system for potential developing symptoms. Managing or restricting public access to known caves could reduce the risk of human-bat transmission. Safe post-mortem handling and burial practices should be encouraged to reduce further transmission.
+
+In a healthcare setting, risk of transmission could be reduced by providing individuals with the necessary PPE to work in close proximity with the virus. Further risk reduction efforts can be provided by educating healthcare staff on protocol for isolation and treatment measures necessary if they become infected. Giving healthcare professionals access to rapid testing to promote early detection can contribute to reduced transmission and a more rapid, effective response. Researching, developing, and implementing effective vaccines can greatly contribute to reduced transmission.
+
+------------------------------------------------------------------------
+
+## [Worksheet 6-8:]{.underline}
+
+**Comparing Prevalence by Region:**
+
+|  REGION | Total Host: 106 | Infected Host (Num_BPro \> 0) | Prevalence (INF/TOTAL) | CI 95% (Sterne's) |
+|---------------|---------------|---------------|---------------|---------------|
+| North | 49 | 14 | 29% | 17%-43% |
+| Central | 14 | 9 | 64% | 37%-85% |
+| South | 43 | 27 | 63% | 48% - 76% |
+
+: **Overall Prevalence of *Baylisascaris procyonis:* 47% (95Cl% 38-57%)**
+
+**Prevalence Calculations:**
+
+North Prevalence = 14/49=.285
+
+.285 x 100=29%
+
+Central Prevalence=9/14=.642
+
+.642 x 100= 64%
+
+South Prevalence=27/43=.627
+
+.627 x 100 = 63%
+
+**Observations:**
+
+From the data above, the central region has the highest prevalence (64%). However, it has the smallest number of host among the regions. The second highest prevalence region is south region with a prevalence of 63%. Lastly, the north region has 29% prevalence for roundworm infection.
+
+**Interpretation of Results:**
+
+The Central and Southern regions have the highest prevalence fo roundworm infection. Therefore, it would seem that there is a stronger ecological presence of roundworm in these areas in comparison to the north region.
+
+**Comparing Prevalence by Gender**
+
+| Region  | Gender | Total Host | Total Infected | Prevalence | CL 95% (Sterne's) |
+|---------|--------|------------|----------------|------------|-------------------|
+| North   | M      | 21         | 8              | .38        | .07-.35           |
+| North   | F      | 28         | 6              | .21        | .19-.57           |
+| Central | M      | 9          | 4              | .44        | .11-.77           |
+| Central | F      | 5          | 5              | 1          | 0.0-1             |
+| South   | M      | 32         | 16             | 0.5        | .31-.68           |
+| South   | F      | 11         | 11             | 1          | 0.0-1             |
+
+**Prevalence Calculations:**
+
+North (M)= 8/21=.380
+
+.380 X 100=38%
+
+North (F)=6/28=.214
+
+.214 X 100= 21%
+
+Central (M) 4/9=.444
+
+.444 X 100= 44%
+
+Central (F)=5/5=1
+
+1 X 100= 100%
+
+South (M)=16/32=.50
+
+1 X .50=50%
+
+South (F)=11/11=1
+
+1X100=100%
+
+**Observations:**
+
+In the north region, male raccoon's had a higher prevalence for being infected by roundworm than females. Males had a 38% prevalence while females had 21% prevalence.
+
+In the central region, female raccoon's had a higher prevalence for being infected by roundworm than males. Females had 100% prevalence while males only had 44%.
+
+In the south region, female raccoon's had a higher prevalence for being infected by roundworm than males. Females had 100% prevalence while males only had 50%.
+
+**Interpretation of Results:**
+
+In the north region, the higher prevalence of infection of males could be indicative of higher roaming rates and foraging.
+
+In the central and southern region, the higher prevalence of infection of females could be related to maternal behaviors which increases risk of exposure.
+
+**Comparing Prevalence by Regional Age Classes:**
+
+| Region  | Age Class | Total Host | Total Infected | Prevalence | CI 95% (Sterne's) |
+|------------|------------|------------|------------|------------|------------|
+| North   | A         | 25         | 7              | .28        | .12-.48           |
+| North   | YA        | 24         | 7              | .292       | .125-.50          |
+| Central | A         | 13         | 8              | .615       | .384-.846         |
+| Central | YA        | 1          | 1              | 1          | 0-1               |
+| South   | A         | 31         | 21             | .677       | .516-.838         |
+| South   | YA        | 12         | 6              | 0.5        | .25-.75           |
+
+**Prevalence Calculations:**
+
+North (A)=7/25=.28
+
+.28 X 100= 28%
+
+North (YA)=7/24=.292
+
+.292 X 100=29%
+
+Central (A)=8/13=.615
+
+.615 X 100 = 62%
+
+Central (YA)=1/1=1
+
+1 X 100= 100%
+
+South (A)=21/31=.677
+
+.677 X 100 = 67%
+
+South (YA)= 6/12=0.50
+
+.50 X 100=50%
+
+**Observations:**
+
+In the north region, prevalence was highest among young adult raccoon's. However, there was very small variation in prevalence. Adults had 28% while young adults had 29%
+
+In the central region, prevalence was highest young adult raccoon's. 100% of young adult raccoon were infected by roundworm while 61% of adults were infected.
+
+In the south region, prevalence was highest among adult raccoon's. Adult specimens had 68% prevalence while young adults had 50%.
+
+**Interpretation of Results:**
+
+In the north region and central, the prevalence was highest among young adult raccoon's. This could be correlated to the exploratory behavior often seen in young individuals that could increase risk of infection. Adult individuals may have had enough time to build up immunity which reduces exposure.
+
+**Discussion:**
+
+Overall, regions with high prevalence such as the south and central region must be prioritized for ecological intervention. Potential strategies could include reducing roundworm egg hotspots, reducing contact risk, and informing the public. It is important to consider the behavioral differences between males and female raccoon. The behavioral differences can guide and promote more effective disease management strategies. In males, it may be important to focus disease management efforts on areas of high activity. For females, it may be vital to focus on specific vulnerabilities regarding their maternal behaviors. In regards to age structure, it is another important component to consider in managing this disease because it can refine prevention efforts from having knowledge of which age class has increased vulnerability. Prevention efforts can carried out through vaccination programs and/or habitat modifications.
+
+------------------------------------------------------------------------
+
+## [**Term Project:**]{.underline}
+
+[**MEMO**]{.underline}
+
+**To:** Iowa Department of Public Health
+
+**From:** Jacob Melton, Auburn University
+
+**Date:** November 30, 2024
+
+**RE:** Public Health Response to Lassa Fever Case in Iowa
+
+[**Key Information on Lassa Fever:**]{.underline}
+
+-   ·**Causative Agent:**
+
+    -   Lassa fever was first described in the 1950s. The virus causing Lassa disease was identified in 1969. The virus is a single-strand RNA virus that belongs to the *Arenaviridae* family (World Health Organization \[WHO\], 2017)
+
+-   **Natural Reservoir:**
+
+    -   Lassa fever is a zoonotic disease
+
+    -   The animal reservoir is a rodent belonging to the genus Mastomys (WHO, 2017).
+
+    -   These species are commonly known as the “multimammate rat.”
+
+    -   Endemic rodent to West Africa
+
+    -   Mastomys rodents carry and excrete the virus without showing symptoms (WHO, 2017).
+
+-   **Transmission Pathways:**
+
+    -   Animal-Human Transmission:
+
+        -   Direct contact with urine, feces, or other excrement from infected Mastomys rodents (WHO, 2017).
+
+        -   Consumption of food or water contaminated with Mastomys rodent’s excrement (WHO, 2017).
+
+    -   Human-Human Transmission:
+
+        -   Direct contact with bodily fluids (blood, urine, saliva) of an infected person (WHO, 2017).
+
+        -   Lassa fever is not spread through casual human contact such as hugging, shaking hands, or sitting close to an infected individual (Iowa Health and Human Services, 2024).
+
+        -   Exposure to contaminated medical instruments (i.e. re-used needles) in healthcare settings (WHO, 2017).
+
+    -   Host-Pathogen Interactions relevant to Iowa:
+
+        -   In non-endemic regions such as Iowa, the natural reservoir species does not exist.
+
+            -   Therefore, human transmission would be the primary mode of virus spread in Iowa.
+
+        -   Iowa lacks the ecological conditions necessary for human-rodent spillover.
+
+**Geographic Distribution:**
+
+-   Lassa fever is endemic to West African countries such as: Nigeria, Sierra Leone, Liberia, and Guinea (WHO, 2017).
+
+-   Occasional cases occur in neighboring West African Regions (WHO, 2017).
+
+-   Imported cases outside Africa remain rare but are often associated with recent travel to endemic areas (WHO, 2017).
+
+**Clinical Presentation:**
+
+-   Incubation period: 6-21 days (WHO, 2017).
+
+-   The onset of the disease once symptomatic starts with fever, fatigue, and malaise.
+
+-   After a few days, symptoms include headache, sore throat, muscle pain, chest pain, nausea, vomiting, diarrhea, cough, and abdominal pain (WHO, 2017).
+
+-   In severe cases, symptoms include facial swelling, fluid build-up in lungs, low blood pressure, and bleeding from the mouth, nose, vagina, or gastrointestinal tract (WHO, 2017).
+
+    -   In late stages of severe cases, symptoms include shock, seizures, tremors, disorientation, and coma (CDC, 2024).
+
+        -   Deafness occurs in 25% of patients who survive the disease (WHO, 2017).
+
+        -   Death usually occurs within 14 days of onset with fatal cases (WHO, 2017).
+
+[**State of Iowa - Actionable Recommendations for Public Health Response and Prevention:**]{.underline}
+
+**Improving Disease Surveillance:**
+
+-   Enhanced Reporting Systems:
+    -   Statewide tracking and monitoring of suspected cases
+-   Inform healthcare providers with necessary case definitions to promote prompt identification of Lassa fever (Center for Disease Control and Prevention \[CDC\], 2024).
+-   Provide healthcare providers with the necessary diagnostic tools to ensure timely testing (CDC, 2024).
+
+·**Educate Healthcare Providers:**
+
+-   Provide mandatory training opportunities for healthcare professionals on recognizing symptoms, safe specimen handling, and necessary treatment protocols (CDC, 2024).
+    -   Coordinate with county health departments and local clinics, considering the predominant rural demographics.
+-   Reinforce proper PPE protocols and patient isolation procedures.
+-   Encourage healthcare professionals to review the patient's travel history (CDC, 2024).
+
+**Managing Suspected Cases & Infection Control in Healthcare Settings:**
+
+-   Patient Placement:
+
+    -   Patients should be placed in a single-patient room with private bathroom and the door should be closed (CDC, 2024).
+
+    -   Facilities should keep a log of all people entering/exiting the room (CDC, 2024).
+
+-   Patient Care Equipment:
+
+    -   Dedicated medical equipment (preferably disposable) should be used when providing patient care (CDC, 2024).
+
+    -   All non-dedicated, non-disposable medical equipment should be cleaned and disinfected according to the manufacturer’s recommendations (CDC, 2024).
+
+-   Provide healthcare providers with anti-viral treatments and monitor compliance with infection prevention standards (CDC,2024).
+
+**Analysis:**
+
+-   Lassa virus is likely to emerge in Iowa from a traveler that was exposed to an infected Mastomys rat in Western Africa. In Iowa, the traveler could transmit the virus to other via close contact with bodily fluids. This virus has the potential to persist in non-endemic areas such as Iowa if precautionary measures aren't employed such as screening returning travelers from endemic areas, proper patient care, proper medical PPE for healthcare professionals, and proper burial methods (CDC, 2024). Proactive implementation of these measures is essential. These proactive measures will prevent and contain potential outbreak of Lassa fever in Iowa.
+
+**References: (APA7)**
+
+Center for Disease Control and Prevention. (2024). *About Lassa Fever*. https://www.cdc.gov/lassa-fever/about/index.html
+
+Iowa Health and Human Services. (2024) *State and Hospital Officials Follow Federal Guidance After Lassa Fever Death*. https://hhs.iowa.gov/news-release/2024-10-28/state-and-hospital-officials-follow-federal-guidance-after-lassa-fever-death
+
+World Health Organization. (2017). *Lassa fever*. https://www.who.int/news-room/fact-sheets/detail/lassa-fever
